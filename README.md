@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/michaelPappas2662" target="blank"><img align="center"  alt="michaelPappas2662" height="30" width="40" /></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/michaelPappas2662)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
