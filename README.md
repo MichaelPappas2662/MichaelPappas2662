@@ -30,10 +30,6 @@
 <p></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&theme=algolia&show_icons=true&locale=en" alt="michaelpappas2662" /></p>
-
-
-
 <p float="left">
   <img width="300" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&theme=algolia&show_icons=true&locale=en" alt="michaelpappas2662" />
   <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelpappas2662&theme=algolia&show_icons=true&locale=en&layout=compact" 
