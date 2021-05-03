@@ -38,4 +38,4 @@ alt="michaelpappas2662" /></p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelpappas2662=ryo-ma&theme=juicyfresh" alt="michaelpappas2662" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelpappas2662&theme=juicyfresh" alt="michaelpappas2662" /></a> </p>
