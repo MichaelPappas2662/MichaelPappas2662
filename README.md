@@ -35,6 +35,7 @@
 
 
 <p float="left">
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&theme=algolia&show_icons=true&locale=en" alt="michaelpappas2662" />
   <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelpappas2662&theme=algolia&show_icons=true&locale=en&layout=compact" 
 alt="michaelpappas2662" />
   <img  width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpappas2662&theme=algolia" alt="michaelpappas2662" /></p>
