@@ -35,9 +35,6 @@
   <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelpappas2662&theme=algolia&show_icons=true&locale=en&layout=compact" 
 alt="michaelpappas2662" />
   <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpappas2662&theme=algolia" alt="michaelpappas2662" /></p>
-  <a href="https://github.com/MichaelPappas2662/MichaelPappas2662">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelPappas2662&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
+  
 
 
