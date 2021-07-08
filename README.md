@@ -49,19 +49,16 @@
 <img align="stretch" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpappas2662&theme=dark" />
 <img align="stretch" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&show_icons=true&theme=dark" />
 
-
-
-
-
-<!--START_SECTION:activity-->
-
-
-
 ### Connect with me
 
 <!-- Actual text -->
 
 You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][2].
+
+
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- Icons -->
 
