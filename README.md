@@ -1,17 +1,20 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=michaelpappas2662&color=55acb7&style=for-the-badge&logo=Github)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<div>Icons made by <a href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=MichaelPappas2662&theme=onestar" />
 
 
 <p>Welcome to my page! </br> I'm Michael, Fullstack developer from <img src="https://img.icons8.com/color/48/000000/greece-circular.png"/ width="13"> <b>Athens, Greece</b>, currently living in <img src="https://img.icons8.com/color/48/000000/australia-circular.png" width="13"/> <b>Sydney, Australia</b>. </p>
-### Connect with me
-
-[<img align="left" alt="Michael's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Michael's | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Michael's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][intagram]
-
 <br />
+
+
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c63oung2u4u4as5ufw45xgkuum&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h3>Things I code with</h3>
 <p>
@@ -43,16 +46,32 @@
 </p>
 
 
-### Spotify Playing 🎧
+<img align="stretch" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpappas2662&theme=dark" />
+<img align="stretch" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&show_icons=true&theme=dark" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c63oung2u4u4as5ufw45xgkuum&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpappas2662&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpappas2662&theme=radical)](https://github.com/michaelpappas2662/github-readme-stats)
 
 <!--START_SECTION:activity-->
+
+
+
+### Connect with me
+
+<!-- Actual text -->
+
+You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][2].
+
+<!-- Icons -->
+
+[1.2]: https://img.icons8.com/office/16/000000/facebook-new.png (twitter icon without padding)
+[3.2]: https://img.icons8.com/officexs/16/000000/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.facebook.com/profile.php?id=100010527543286
+[2]: https://www.linkedin.com/in/michael-pappas-460651123
 
 ---
 [linkedin]: https://www.linkedin.com/in/michael-pappas-460651123
