@@ -5,10 +5,9 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=MichaelPappas2662&theme=onestar" />
 
-
+<div align="center">
 <p>Welcome to my page! </br> I'm Michael, Fullstack developer from <img src="https://img.icons8.com/color/48/000000/greece-circular.png"/ width="13"> <b>Athens, Greece</b>, currently living in <img src="https://img.icons8.com/color/48/000000/australia-circular.png" width="13"/> <b>Sydney, Australia</b>. </p>
-<br />
-
+<div />
 
 
 ### Spotify Playing 🎧
@@ -54,8 +53,6 @@
 <!-- Actual text -->
 
 You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][2].
-
-
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
