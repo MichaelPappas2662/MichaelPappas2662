@@ -1,6 +1,6 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=michaelpappas2662&color=55acb7&style=for-the-badge&logo=Github)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hey! Nice to see you.</h1>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=MichaelPappas2662&theme=onestar" />
