@@ -53,13 +53,6 @@
 
 You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][2].
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MichaelPappas2662/Employee-Tracker/issues/1) in [MichaelPappas2662/Employee-Tracker](https://github.com/MichaelPappas2662/Employee-Tracker)
-2. 🎉 Merged PR [#66](https://github.com/bdjm94/Project2-Sweat-Mate/pull/66) in [bdjm94/Project2-Sweat-Mate](https://github.com/bdjm94/Project2-Sweat-Mate)
-3. 🎉 Merged PR [#65](https://github.com/bdjm94/Project2-Sweat-Mate/pull/65) in [bdjm94/Project2-Sweat-Mate](https://github.com/bdjm94/Project2-Sweat-Mate)
-4. 💪 Opened PR [#60](https://github.com/bdjm94/Project2-Sweat-Mate/pull/60) in [bdjm94/Project2-Sweat-Mate](https://github.com/bdjm94/Project2-Sweat-Mate)
-5. 🎉 Merged PR [#58](https://github.com/bdjm94/Project2-Sweat-Mate/pull/58) in [bdjm94/Project2-Sweat-Mate](https://github.com/bdjm94/Project2-Sweat-Mate)
-<!--END_SECTION:activity-->
 
 <!-- Icons -->
 
