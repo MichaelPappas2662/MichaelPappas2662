@@ -43,7 +43,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpappas2662&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpappas2662&theme=dark)
 
 
 <img align="stretch" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&show_icons=true&theme=dark" />
