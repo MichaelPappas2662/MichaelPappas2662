@@ -7,7 +7,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=MichaelPappas2662&theme=onestar" />
 
 
-
+#
 
 ### Spotify Playing 🎧
 
