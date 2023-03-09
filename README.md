@@ -1,17 +1,7 @@
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=michaelpappas2662)
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hey! Nice to see you.Welcome to my page! </br> I'm Michael, Fullstack developer from <img src="https://img.icons8.com/color/48/000000/greece-circular.png" width="30"> <b>Athens, Greece</b>, currently living in <img src="https://img.icons8.com/color/48/000000/australia-circular.png" width="30"/> <b>Sydney, Australia</b>.
 </h1>
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=MichaelPappas2662&theme=onestar" />
-
-
-#
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c63oung2u4u4as5ufw45xgkuum&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3>Things I code with</h3>
@@ -45,8 +35,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpappas2662&theme=dark)
 
-
-<img align="stretch" src="https://github-readme-stats.vercel.app/api?username=michaelpappas2662&show_icons=true&theme=dark" />
 
 ### Connect with me
 
