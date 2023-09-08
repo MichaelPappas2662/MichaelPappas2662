@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hey! Nice to see you.Welcome to my page! </br> I'm Michael, Fullstack developer from <img src="https://img.icons8.com/color/48/000000/greece-circular.png" width="30"> <b>Athens, Greece</b>, currently living in <img src="https://img.icons8.com/color/48/000000/australia-circular.png" width="30"/> <b>Sydney, Australia</b>.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hey! Nice to see you.Welcome to my page! 
 </h1>
 
 
